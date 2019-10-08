@@ -131,7 +131,7 @@ End Sub
 
 [Ricardo Cruz Gomes](https://orcid.org/0000-0003-4414-4738)
 
-Felicio Visnard
+Felício Visnard
 
 ## License
 
