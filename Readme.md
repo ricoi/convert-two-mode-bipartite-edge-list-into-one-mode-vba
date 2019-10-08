@@ -35,7 +35,7 @@ When run this macro, the new one-mode edge list will be generated at “relacao�
 -	First column (A), will have the patent number, or the common characteristic which originated the relationship;
 -	Second column (B), and also third column ( C), will have the actors data (organizations names); 
 -	The next columns could have complementary data from each relantionship, like patent application data, and others (necessary adapt vba code);
--	Second column (B) should header “source”, and third column ( C) should heade "targer", for Gephi input;
+-	Second column (B) should header “source”, and third column ( C) should header "target", for Gephi input;
  
 ### Running vba macro
 -	Before perform vba macro, select the first line with the first column (A2) where results will be generated, at “relacao” worksheet;
